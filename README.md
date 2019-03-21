@@ -1,6 +1,8 @@
 # Assignment 6
 This assignment requires you to work with Facebook network data, data preprocessing and networkx. Note that this is real data from real people!
 
+link to mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cba-dat-sem4-python-group/Assignment-6/master?filepath=Assignment-6.ipynb)
+
 ## Part 1: Preparing data
 The dataset you will be working with is available here: https://snap.stanford.edu/data/egonets-Facebook.html
 
